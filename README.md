@@ -1,7 +1,7 @@
 # python-app
-# Adventist Church Database App
+# Laic Report app
 
-This Python application allows you to manage and keep track of various values for an Adventist church. The app is designed with a Tkinter-based graphical user interface (GUI) and utilizes an SQLite database to store and retrieve data.
+This Python application allows you to manage and keep track of the various values for laic report in an Adventist church. The app is designed with a Tkinter-based graphical user interface (GUI) and utilizes an SQLite database to store and retrieve data.
 
 ## Features
 
